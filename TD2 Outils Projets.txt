@@ -1,0 +1,14 @@
+TD 2 - Outils de gestion de projets
+-----------------------------------
+- Prof a envoyé un email pour sélection projets GGS :
+	- Première présentation Lundi 30/09, 16h / 18h
+	- 2 minutes pour présenter 1 idée
+	- réponse des profs le Vendredi soir
+-----------------------------------
+|PDF : Fiche Projet
+|-> Nom du projet (GCD)
+|-> Membres du groupe
+|-> URL du dépôt Git (Github ou autre)
+|-> Nom équipe qui héberge projet git partagé
+|-> Nom du dépôt Git
+|-> Capture d'écran de la page du projet
